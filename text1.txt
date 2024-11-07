@@ -1,1 +1,2 @@
 Aquest és el contingut inicial del primer fitxer.
+Canvi fet des de la branca main.
