@@ -1,1 +1,2 @@
 Aquest és el contingut inicial del primer fitxer.
+Canvi fet a text1.txt des de branca-edicio2.
